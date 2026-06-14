@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlmodel
+groq
+python-dotenv
+openai
+langchain
+langchain-openai
